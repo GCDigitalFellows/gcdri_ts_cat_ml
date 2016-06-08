@@ -2,7 +2,7 @@ Time Series & Catagorical
 ========================
 1) loading data from tables (excel files, csvs)
 
-2) cleaning misformed data such as dates and missing values
+2) cleaning misformed data and missing values
 
 3) filtering data using keywords and logical constraints
 
@@ -11,7 +11,10 @@ Time Series & Catagorical
 
 5) aggregating data via pivot tables  
 
-6) visualizing data in various forms such as bar and line plots
+6) visualizing timeseries: 
+    * delta plots for collections + envelope
+    * #collections by year
+    
 
 Machine Learning
 ================
